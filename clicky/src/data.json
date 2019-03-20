@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/07-jessi-big-mouth.w700.h700.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/21-big-mouth-gina.w700.h700.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/AndrewProfilePic.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/Missy_0.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/Jay.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/Nick.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/MatthewProfilePic.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/HormoneMonsterProfilePic.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/Connie_Artwork1.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/CoachSteven.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/DianeProfilePic.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/Barbara.png",
+      "clicked": false
+    }
+  ]
+  
